@@ -47,14 +47,6 @@
 
 My journey in cloud computing and development has been reinforced by achieving these certifications, reflecting my commitment to continuous learning and professional growth.
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<br>
-
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAY-EHHOT&layout=compact&langs_count=7&theme=rose_pine" alt="bay-ehhot stats" />
-</p>
-
 ##
 
 <p align="center">
