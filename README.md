@@ -52,7 +52,7 @@ My journey in cloud computing and development has been reinforced by achieving t
 <br>
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine" alt="ericrocha97 stats" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAY-EHHOT&layout=compact&langs_count=7&theme=rose_pine" alt="bay-ehhot stats" />
 </p>
 
 ##
